@@ -1,0 +1,45 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+.titulo {
+	background-color: black;
+	color: white;
+}
+
+/*Registro*/
+
+.registro {
+	margin-left: 30%;
+	text-decoration: none;
+	color: lightgreen;
+	position: relative;
+	bottom: 65px;
+}
+
+.registro:hover {
+	text-decoration: underline;
+}
+
+/*Login*/
+
+.login {
+	margin-left: 29%;
+	position: relative;
+	bottom: 60px;
+	text-decoration: none;
+	color: blue;
+}
+
+.login:hover {
+	text-decoration: underline;
+}
+
+/*Ruta*/
+
+.ruta {
+	text-align: center;
+	color: red;
+}
